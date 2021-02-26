@@ -1,15 +1,19 @@
-# React SSR Boilerplate
+# Move.it Project (#NWL4 Rocketseat)
 
 - Next.js
   - React
 - CSS Modules
 - Typescript
 
-# Instalação
+## Clonando o projeto
+
+`| git clone git@github.com:brunoreis-dev/moveit-nlw4.git |`
+
+## Instalação
 
 `| yarn install |`
 
-# Executando o projeto
+## Executando o projeto
 
 Abaixo os comandos que são usados no projeto:
 
@@ -21,11 +25,13 @@ Abaixo os comandos que são usados no projeto:
 
 `| yarn dev |` Executa o projeto em modo de desenvolvimento na porta `3000` |
 
-`| yarn build |` Executa o build do projeto e gera o diretório `.next/` |
+## Funcionalidades
 
-`| yarn start |` Gera uma compilação da aplicação no diretório `dist/` e roda o servidor de express na porta `3000` |
+[x] - Contador para novo desafio;
+[x] - Box de desafios aleatórios;
+[x] - Sistema de Level Up;
 
-# Padrões de código/desenvolvimento
+## Padrões de código/desenvolvimento
 
 - Para nomenclatura de branches, utilizamos o padrão do Gitflow
 
