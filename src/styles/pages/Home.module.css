@@ -11,6 +11,18 @@
   align-content: center;
   display: grid;
   flex: 1;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(2, 1fr);
   gap: 6.25rem;
+}
+
+@media(max-width: 1024px) {
+  .container {
+    height: auto;
+  }
+
+  .container section {
+    grid-template-columns: 1fr;
+    margin: 0 auto;
+    max-width: 500px;
+  }
 }
