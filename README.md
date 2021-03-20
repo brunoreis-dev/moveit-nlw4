@@ -30,6 +30,10 @@ Abaixo os comandos que são usados no projeto:
 [x] - Contador para novo desafio;
 [x] - Box de desafios aleatórios;
 [x] - Sistema de Level Up;
+[ ] - Tema Dark;
+[ ] - Sistema de Login;
+[ ] - Sistema de Ranking;
+[ ] - Sistema de Compartilhamento;
 
 ## Padrões de código/desenvolvimento
 
